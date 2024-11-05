@@ -68,10 +68,10 @@ def place_order(menu):
 
         # TODO: Write a conditional statement that checks the user's input
         # TODO: The conditional statement should check for 'n' or 'N'
-        if keep_ordering .lower() == 'n':
+        if keep_ordering.lower() == 'n':
 
             # TODO: Write a print statement that thanks the customer for their order
-            print("Thank you for your order!")
+            print("Thank you for your order.")
 
 
             # TODO: Use list comprehension to create a list called prices_list,
